@@ -1,0 +1,49 @@
+h1 {
+    margin-top: 200px;
+    font-family: 'DancingScript-Regular', serif;
+    font-size: 70px;
+    color: #F2EDD5;
+    margin-left: 90px;
+}
+
+.foto-central {
+    display: flex;
+    margin: 90px;
+    background-color: #6D7E8C;
+    width: 85%;
+    border-radius: 20px;
+
+}
+
+.infos img {
+    width: 15%;
+    border-radius: 20px;
+    border: 20px solid #6D7E8C;
+    margin-left: 40%;
+
+
+}
+.texto {
+    display: flex;
+    margin: 90px;
+    background-color: #6D7E8C;
+    width: 85%;
+    border-radius: 20px;
+
+}
+
+.expectativas {
+    display: flex;
+    margin: 90px;
+    background-color: #6D7E8C;
+    width: 85%;
+    border-radius: 20px;
+
+}
+
+p {
+    font-family: 'poppins', sans-serif;
+    color: #F2EDD5;
+    font-size: 30px;
+    margin: 90px
+}

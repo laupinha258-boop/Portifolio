@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'DancingScript-Regular';
+    src: url('../IMAGENS/DancingScript-Regular.ttf') format('truetype');
+}
+
+nav {
+    background-color: #2A3659;
+    width: 100%;
+    position: fixed;
+    top:0%;
+    left:0%;
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    margin-left: 25%;
+}
+
+nav a {
+    color: #F2EDD5;
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: space-evenly;
+    font-family: 'DancingScript-Regular', serif;
+    font-size: 30px;
+    padding: 20px;
+    margin-right: 30px;
+
+}
+
+img {
+    width: 100px;
+
+}
+body {
+
+    background-color: #8FA1A6;
+}
+
+
+h1{
+    font-family: 'DancingScript-Regular', serif;
+    font-size: 70px;
+
+}
+
+
